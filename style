@@ -1,0 +1,39 @@
+body {
+
+    color:rgb(182, 164, 169);
+    background: rgb(24, 22, 22);
+    margin: 1%;
+    font-family:"PT Serif", serif;
+
+}
+
+header{
+
+    border-bottom: solid 3px rgb(182, 164, 169); 
+    padding: 1%;
+    font-size: 44px;
+    color:rgb(61, 56, 56);
+}
+
+section{
+
+    background:rgb(53, 53, 53);
+    padding-bottom: 40px;
+    display: flex;
+    justify-content:flex-end;
+}
+
+div{
+
+    margin-right: 60px;
+}
+
+.chamada-texto{
+
+    margin-right: 100px;
+}
+
+h1{
+
+    font-size: 28px;
+}
