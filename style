@@ -37,3 +37,8 @@ h1{
 
     font-size: 28px;
 }
+
+img{
+
+    height: 200px;
+}
