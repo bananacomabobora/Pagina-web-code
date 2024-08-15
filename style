@@ -1,7 +1,7 @@
 body {
 
-    color:rgb(182, 164, 169);
-    background: rgb(24, 22, 22);
+    color:rgb(202, 130, 151);
+    background: rgb(209, 97, 125);
     margin: 1%;
     font-family:"PT Serif", serif;
 
@@ -9,18 +9,19 @@ body {
 
 header{
 
-    border-bottom: solid 3px rgb(182, 164, 169); 
+    border-bottom: solid 3px rgb(201, 130, 150); 
     padding: 1%;
     font-size: 44px;
-    color:rgb(61, 56, 56);
+    color:rgb(209, 40, 68);
 }
 
-section{
+.chamada{
 
-    background:rgb(53, 53, 53);
+    background:rgb(199, 68, 90);
     padding-bottom: 40px;
+    padding-top: 40px; 
     display: flex;
-    justify-content:flex-end;
+    justify-content:center;
 }
 
 div{
@@ -42,3 +43,17 @@ img{
 
     height: 200px;
 }
+
+.categoria-videos {
+
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+  }
+
+ .categoria{
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+  }
