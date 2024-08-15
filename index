@@ -9,33 +9,34 @@
         rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 
-    <title>CORUJA SECA</title>
+    <title>Dosto Iévski</title>
 
 </head>
 
 <body>
 
-    <header>CORUJA SECA</header>
+    <header>Dosto Iévski</header>
 
-    <section>
+    <section class="chamada">
 
         <div class="chamada-texto">
 
-            <h1>Apenas seja.</h1>
+            <h1>A visão de Fiódor</h1>
         </div>
 
         <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/lVJWcqPkhok?si=6ruOzjSMeDeUpRcW"
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3CxdZJDw97U?si=xRV_Dk8cxrmf1Ufn"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
-        
+
     </section>
 
-<section>
+    <section class="categoria">
         <h2>Para saber +</h2>
-        <div>
+        <div class="categoria-videos">
+
             <a href="https://www.youtube.com/watch?v=zRtt4V-rZAg" >
             <img src="https://img.youtube.com/vi/zRtt4V-rZAg/maxresdefault.jpg" />
 
@@ -44,8 +45,7 @@
 
             <a href="https://www.youtube.com/watch?v=jSdDIibQU9Y" > 
             <img src="https://img.youtube.com/vi/jSdDIibQU9Y/maxresdefault.jpg" />
-
-
+            
         </div>
     </section>
 
