@@ -33,6 +33,22 @@
         
     </section>
 
+<section>
+        <h2>Para saber +</h2>
+        <div>
+            <a href="https://www.youtube.com/watch?v=zRtt4V-rZAg" >
+            <img src="https://img.youtube.com/vi/zRtt4V-rZAg/maxresdefault.jpg" />
+
+            <a href="https://www.youtube.com/watch?v=nX3QJPC1XyQ">
+            <img src="https://img.youtube.com/vi/nX3QJPC1XyQ/maxresdefault.jpg"/>
+
+            <a href="https://www.youtube.com/watch?v=jSdDIibQU9Y" > 
+            <img src="https://img.youtube.com/vi/jSdDIibQU9Y/maxresdefault.jpg" />
+
+
+        </div>
+    </section>
+
 </body>
 
 </html>
